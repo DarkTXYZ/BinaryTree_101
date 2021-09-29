@@ -8,11 +8,11 @@
       - leftDescendant 
       - rightAncestor
   - findKthSmallest
-- **insert**
-- **printTree** (Depth First Traversal)
+- **Insert**
+- **PrintTree** (Depth First Traversal)
   - preorder
   - inorder
   - postorder
-- **height , size , depth**
-- **rangeSearch**
-- **delete**
+- **Height , Size , Depth**
+- **RangeSearch**
+- **Delete**
